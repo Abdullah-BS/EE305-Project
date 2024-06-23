@@ -2,19 +2,19 @@
 
 ## Table of Contents
 
-- [Overview](#1.overview)
-- [Recursive Algorithm Steps](#Recursive-Algorithm-Steps)
-- [Functions](#Functions)
-- [Pseudocode](#Pseudocode)
+- [Overview](#overview)
+- [Recursive Algorithm Steps](#recursive-algorithm-steps)
+- [Functions](#functions)
+- [Pseudocode](#pseudocode)
 - [Conclusion](##conclusion)
 
 
-## 1. Overview
+## Overview
 Here is a representation of a project centered around solving Sudoku puzzles using recursive backtracking algorithms. Sudoku is a popular puzzle game that relies on logic and number placement. The project's purpose is to explore the application of recursive algorithms in solving complex puzzles and to develop a practical tool for solving Sudoku. The recursive backtracking algorithm, a fundamental technique in computer science. It offers a systematic approach to solving Sudoku puzzles by iteratively exploring possible solutions and backtracking when encountering dead ends.
 
 ---
 
-## 2. Recursive Algorithm Steps
+## Recursive Algorithm Steps
 1-	`Base Case:` The algorithm begins by checking if the Sudoku puzzle is already solved. If all cells are filled and no constraints are violated, the puzzle is considered solved, and the algorithm returns True.
 
 2-	`Find Empty Cell:` If the puzzle is not solved, the algorithm searches for an empty cell (a cell with the value 0) in the grid. If no empty cells are found, it indicates that the puzzle is unsolvable with the current configuration.
@@ -31,7 +31,7 @@ Repeat: Steps 2-6 are repeated until a solution is found or until all possibilit
 
 ---
 
-## 3. Functions
+## Functions
 
 1.	```generate()```: this function generates the sudoku problem using the dokusan library, it generates a string of numbers in the sudoku, then changes it a list of lists inside 9x9 matrix.
 
@@ -53,7 +53,7 @@ Repeat: Steps 2-6 are repeated until a solution is found or until all possibilit
 
 ---
 
-## 4. Pseudocode
+## Pseudocode
 
 ![image](https://github.com/Abdullah-BS/EE305-Project/assets/139412761/847af3ac-41cd-436d-8e6c-63b18ed4a77d)
 
@@ -61,5 +61,5 @@ Repeat: Steps 2-6 are repeated until a solution is found or until all possibilit
 
 ---
 
-## 5. Conclusion
+## Conclusion
 This project used the recursive backtracking method which we studied in discrete mathematics, to solve a complex sudoku puzzle. The concept of recursive backtracking is about backtracking to every option available until a solution is found in which none of the constraints are violated. Using the recursive backtracking method to solve the sudoku puzzle, showed us the effectiveness of using logic and mathematics to solve problems and how fast they can be solved. This kind of project which is based on discrete mathematics will help us in solving problems we encounter in the future by using logic instead of other methods that might have disadvantages.
