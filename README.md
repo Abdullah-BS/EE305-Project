@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Overview](#overview)
+- [Overview](#1.overview)
 - [Recursive Algorithm Steps](#Recursive-Algorithm-Steps)
 - [Functions](#Functions)
 - [Pseudocode](#Pseudocode)
