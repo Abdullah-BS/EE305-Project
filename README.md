@@ -1,5 +1,14 @@
 # EE305-Project
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Recursive Algorithm Steps](#Recursive-Algorithm-Steps)
+- [Functions](#Functions)
+- [Pseudocode](#Pseudocode)
+- [Conclusion](#Conclusion)
+
+
 ## 1. Overview
 Here is a representation of a project centered around solving Sudoku puzzles using recursive backtracking algorithms. Sudoku is a popular puzzle game that relies on logic and number placement. The project's purpose is to explore the application of recursive algorithms in solving complex puzzles and to develop a practical tool for solving Sudoku. The recursive backtracking algorithm, a fundamental technique in computer science. It offers a systematic approach to solving Sudoku puzzles by iteratively exploring possible solutions and backtracking when encountering dead ends.
 
@@ -40,10 +49,7 @@ Repeat: Steps 2-6 are repeated until a solution is found or until all possibilit
 ![image](https://github.com/Abdullah-BS/EE305-Project/assets/139412761/044cddde-0869-4e19-93ed-2e9e01f23556)
 
 
-![image](https://github.com/Abdullah-BS/EE305-Project/assets/139412761/c8fe1298-c14c-46cb-81c8-6e59f5f29dc0)
-
-
-![image](https://github.com/Abdullah-BS/EE305-Project/assets/139412761/6ace96d5-c283-4929-924a-25475acf1df1)
+![image](https://github.com/Abdullah-BS/EE305-Project/assets/139412761/c8fe1298-c14c-46cb-81c8-6e59f5f29dc0) ![image](https://github.com/Abdullah-BS/EE305-Project/assets/139412761/6ace96d5-c283-4929-924a-25475acf1df1)
 
 ---
 
@@ -52,3 +58,8 @@ Repeat: Steps 2-6 are repeated until a solution is found or until all possibilit
 ![image](https://github.com/Abdullah-BS/EE305-Project/assets/139412761/847af3ac-41cd-436d-8e6c-63b18ed4a77d)
 
 ![image](https://github.com/Abdullah-BS/EE305-Project/assets/139412761/69f14d36-091d-40ca-98ca-7dbafab04566)
+
+---
+
+## 5. Conclusion
+This project used the recursive backtracking method which we studied in discrete mathematics, to solve a complex sudoku puzzle. The concept of recursive backtracking is about backtracking to every option available until a solution is found in which none of the constraints are violated. Using the recursive backtracking method to solve the sudoku puzzle, showed us the effectiveness of using logic and mathematics to solve problems and how fast they can be solved. This kind of project which is based on discrete mathematics will help us in solving problems we encounter in the future by using logic instead of other methods that might have disadvantages.
