@@ -6,7 +6,7 @@
 - [Recursive Algorithm Steps](#Recursive-Algorithm-Steps)
 - [Functions](#Functions)
 - [Pseudocode](#Pseudocode)
-- [Conclusion](##5.conclusion)
+- [Conclusion](##conclusion)
 
 
 ## 1. Overview
